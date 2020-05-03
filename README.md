@@ -4,3 +4,6 @@ First git repository with a bunch of commands to learn.
 Please follow this repository for more updates
 
 Updates made on master on GitHub before rebase.
+
+##Purpose
+Create a pull conflict on Purpose
